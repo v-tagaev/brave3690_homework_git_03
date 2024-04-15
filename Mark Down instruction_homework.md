@@ -59,4 +59,4 @@ git push -u origin main -- отправляем репозиторий origin с
 git remote -v -- посмотреть какой репозиторий привязан
 git remote show origin -- полная инфа по репозиторию
 
-вот так
+вот так вот 
